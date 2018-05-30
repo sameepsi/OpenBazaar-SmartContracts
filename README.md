@@ -1,4 +1,4 @@
-# OpenBazaar-SamrtContracts
+# OpenBazaar-SmartContracts
 
 This repository contains all open bazaar smart contract including token
 ## Getting Started
